@@ -1,0 +1,7 @@
+print("hlo")
+i = 0
+for i in [0,10]:
+  print("tes")
+  else:
+    print("false")
+   
